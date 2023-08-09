@@ -1,1 +1,1 @@
-Hello world app
+console.log("Hello, World!");
